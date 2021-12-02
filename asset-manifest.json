@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Reactdocviewer/static/css/main.5475a634.chunk.css",
+    "main.js": "/Reactdocviewer/static/js/main.afe69d67.chunk.js",
+    "main.js.map": "/Reactdocviewer/static/js/main.afe69d67.chunk.js.map",
+    "runtime-main.js": "/Reactdocviewer/static/js/runtime-main.4c0dadcf.js",
+    "runtime-main.js.map": "/Reactdocviewer/static/js/runtime-main.4c0dadcf.js.map",
+    "static/js/2.87b67875.chunk.js": "/Reactdocviewer/static/js/2.87b67875.chunk.js",
+    "static/js/2.87b67875.chunk.js.map": "/Reactdocviewer/static/js/2.87b67875.chunk.js.map",
+    "index.html": "/Reactdocviewer/index.html",
+    "static/css/main.5475a634.chunk.css.map": "/Reactdocviewer/static/css/main.5475a634.chunk.css.map",
+    "static/js/2.87b67875.chunk.js.LICENSE.txt": "/Reactdocviewer/static/js/2.87b67875.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c0dadcf.js",
+    "static/js/2.87b67875.chunk.js",
+    "static/css/main.5475a634.chunk.css",
+    "static/js/main.afe69d67.chunk.js"
+  ]
+}
