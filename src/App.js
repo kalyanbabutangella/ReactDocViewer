@@ -9,7 +9,7 @@ export default function App() {
     <div className="App">
       <Router>
             <Switch>
-              <Route exact path='/' component={DocView}></Route>
+              <Route exact path='/Reactdocviewer' component={DocView}></Route>
             </Switch>
        </Router>
     </div>
