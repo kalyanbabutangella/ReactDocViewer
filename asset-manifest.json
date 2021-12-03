@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Reactdocviewer/static/css/main.5475a634.chunk.css",
-    "main.js": "/Reactdocviewer/static/js/main.afe69d67.chunk.js",
-    "main.js.map": "/Reactdocviewer/static/js/main.afe69d67.chunk.js.map",
-    "runtime-main.js": "/Reactdocviewer/static/js/runtime-main.4c0dadcf.js",
-    "runtime-main.js.map": "/Reactdocviewer/static/js/runtime-main.4c0dadcf.js.map",
-    "static/js/2.87b67875.chunk.js": "/Reactdocviewer/static/js/2.87b67875.chunk.js",
-    "static/js/2.87b67875.chunk.js.map": "/Reactdocviewer/static/js/2.87b67875.chunk.js.map",
-    "index.html": "/Reactdocviewer/index.html",
-    "static/css/main.5475a634.chunk.css.map": "/Reactdocviewer/static/css/main.5475a634.chunk.css.map",
-    "static/js/2.87b67875.chunk.js.LICENSE.txt": "/Reactdocviewer/static/js/2.87b67875.chunk.js.LICENSE.txt"
+    "main.css": "/reactdocviewer/static/css/main.5475a634.chunk.css",
+    "main.js": "/reactdocviewer/static/js/main.93147bcb.chunk.js",
+    "main.js.map": "/reactdocviewer/static/js/main.93147bcb.chunk.js.map",
+    "runtime-main.js": "/reactdocviewer/static/js/runtime-main.130dd33d.js",
+    "runtime-main.js.map": "/reactdocviewer/static/js/runtime-main.130dd33d.js.map",
+    "static/js/2.f2353c54.chunk.js": "/reactdocviewer/static/js/2.f2353c54.chunk.js",
+    "static/js/2.f2353c54.chunk.js.map": "/reactdocviewer/static/js/2.f2353c54.chunk.js.map",
+    "index.html": "/reactdocviewer/index.html",
+    "static/css/main.5475a634.chunk.css.map": "/reactdocviewer/static/css/main.5475a634.chunk.css.map",
+    "static/js/2.f2353c54.chunk.js.LICENSE.txt": "/reactdocviewer/static/js/2.f2353c54.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c0dadcf.js",
-    "static/js/2.87b67875.chunk.js",
+    "static/js/runtime-main.130dd33d.js",
+    "static/js/2.f2353c54.chunk.js",
     "static/css/main.5475a634.chunk.css",
-    "static/js/main.afe69d67.chunk.js"
+    "static/js/main.93147bcb.chunk.js"
   ]
 }
