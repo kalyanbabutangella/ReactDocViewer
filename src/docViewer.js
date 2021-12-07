@@ -4,9 +4,6 @@ import DocViewer, { DocViewerRenderers } from "react-doc-viewer";
 export default function DocView() {
   const docs=[
     {uri: "https://firebasestorage.googleapis.com/v0/b/immigration-v1.appspot.com/o/Application%20form%20UMSL%20internation.docx?alt=media&token=7b7c67c5-75e9-42f8-a4fb-4bea29fadbc8", fileType: "docx"},
-    {uri: "https://firebasestorage.googleapis.com/v0/b/immigration-v1.appspot.com/o/CASES%2FH1-B%20APPROVAL%20COPY_HGKIWZY43SJKIUA4I7AD_2021-07-29T09%3A33%3A07.545Z.pdf?alt=media&token=f11d82c6-e673-44d4-a744-9c1a8e2bc134", fileType: "pdf"},
-    {uri: "https://firebasestorage.googleapis.com/v0/b/immigration-v1.appspot.com/o/6th%20Nov%20Interview%20details.xlsx?alt=media&token=975d7712-da70-44a7-8f7a-6d95c3945a92", fileType: "xlsx"},
-    {uri: "https://firebasestorage.googleapis.com/v0/b/immigration-v1.appspot.com/o/CASES%2FH1-B%20APPROVAL%20COPY_HGKIWZY43SJKIUA4I7AD_2021-07-12T10%3A20%3A32.470Z.jpg?alt=media&token=7ec56ca7-4b44-4290-9bd2-17e67f401e61", fileType: "jpg"},
   ]
 //   const docs=[
 //     // {uri:"https://uploads.codesandbox.io/uploads/user/faa4155a-f802-458d-81ad-90b4709d0cf8/4ETB-10.1.1.324.5566.pdf"},
@@ -32,11 +29,11 @@ export default function DocView() {
     <DocViewer
       pluginRenderers={DocViewerRenderers}
       documents={docs}
-      style={{width: 600, height:600}}
+      style={{width: window.innerWidth*0.75, height:window.innerHeight*0.9}}
       config={{
         header: {
          disableHeader: false,
-         disableFileName: false,
+         disableFileName: true,
          retainURLParams: true
         }
        }}
