@@ -10,7 +10,7 @@ return (
     <DocViewer
         pluginRenderers={DocViewerRenderers}
         documents={docs}
-        style={{width: window.innerWidth*0.75, height:window.innerHeight*0.9}}
+        style={{width: window.innerWidth*0.75, height:window.innerHeight*0.85}}
         config={{
             header: {
             disableHeader: false,
